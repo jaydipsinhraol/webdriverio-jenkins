@@ -9,6 +9,6 @@ webdriverio
     .init()
     .url('http://www.google.com')
     .getTitle().then(function(title) {
-        console.log('Title was here: ' + title);
+        console.log('Title was: ' + title);
     })
     .end();

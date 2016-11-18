@@ -9,6 +9,10 @@
   "author": "Jaydipsinh Raol",
   "license": "ISC",
   "dependencies": {
+    "chai": "^3.5.0",
     "webdriverio": "^4.4.0"
+  },
+  "devDependencies": {
+    "wdio-mocha-framework": "^0.5.4"
   }
 }
