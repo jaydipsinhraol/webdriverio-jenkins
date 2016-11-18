@@ -1,0 +1,14 @@
+{
+  "name": "webdriverio-jenkins",
+  "version": "1.0.0",
+  "description": "CI integration with jenkin",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Jaydipsinh Raol",
+  "license": "ISC",
+  "dependencies": {
+    "webdriverio": "^4.4.0"
+  }
+}
