@@ -3,7 +3,7 @@ var expect = require('chai').expect
 
 var configuration = require('../config');
 
-describe('weekly spcial page', function() {
+describe('weekly spcial pages', function() {
     beforeEach(function () {
         browser.url(configuration.config.urls.store);
     });
